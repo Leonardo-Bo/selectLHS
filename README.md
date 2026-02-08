@@ -15,7 +15,7 @@
 Alternatively,  -->
 You can install it manually from a `.vsix` file:
 1. Download the `.vsix` file from the [Releases section](https://github.com/Leonardo-Bo/selectLHS/releases).
-2. Go to **File** → **Install from VSIX...** in VSCode.
+2. Go to **Extensions** → **...** → **Install from VSIX...** in VSCode.
 3. Select the `.vsix` file to install.
 
 ## Commands
