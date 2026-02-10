@@ -16,6 +16,14 @@
         "command": "extension.selectLHS",
         "title": "Select LHS"
       }
+    ], 
+    "keybindings": [
+      {
+        "command": "extension.selectLHS",
+        "key": "ctrl+shift+l",
+        "mac": "cmd+shift+l",
+        "when": "editorTextFocus"
+      }
     ]
   },
   "scripts": {
